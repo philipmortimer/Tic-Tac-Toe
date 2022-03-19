@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="NoughtsAndCrossesDemo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/NoughtsAndCrossesDemo.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
