@@ -1,4 +1,2 @@
-This noughts and crosses demo was made specifically for this summer task. The demo demonsrates many of the elements
-I will use in my chess game. Noughts and crosses is similar to chess, but just much less complex (and therefore
-achievable for a demo). This piece features person versus person play as well as computer versus person.
-There are two computers settings, one which plays random moves and one which plays the game perfectly.
+This is a Java implementation of Tic Tac Toe. To view the files look at the ".java" files within the "src" folder. Open them with the text editor / IDE of your choice. To run the game, look inside the "dist" folder and execute the ".jar" file. To do this, you will need to have a version of Java installed on your computer. I have tested that everything works when using Java 17 and a Windows system. I developed the code using the NetBeans IDE. However, Intellij will also work just fine to view the source code.
+In order to install everything needed for this section, please follow this guide: https://github.com/philipmortimer/GeneralCourse-Materials-AI-Course/blob/main/AI%20Intro%20Course%20Install%20Guide%20-%20Java.pdf
