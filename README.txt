@@ -1,1 +1,0 @@
-Tic Tac Toe game in Java, including against an unbeatable Minimax agent.
